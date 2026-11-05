@@ -1,18 +1,5 @@
 # Sliding Window — Complete DSA Learning Guide (Java)
 
-Let's learn Sliding Window from the ground up, but without wasting time revisiting every basic DSA concept.
-
-Since you're building your DSA knowledge for Java developer interviews and want to maintain notes in GitHub, I'll structure this as a learning document that you can directly convert into Markdown (`sliding-window.md`).
-
-The goal is not just to memorize solutions. By the end, you should be able to:
-
-1. Understand what Sliding Window is and why we use it.
-2. Recognize when a problem requires Sliding Window.
-3. Understand Fixed Size and Variable Size Sliding Window.
-4. Write both approaches in Java without memorizing code.
-5. Understand the time and space complexity.
-6. Recognize common interview patterns.
-7. Solve problems independently, starting from easy to medium.
 
 # 1. What is Sliding Window?
 
